@@ -1,2 +1,6 @@
 *.beam
 erl_crash.dump
+
+# ingore make file
+dist_demo.erl
+mod_name_server.erl
